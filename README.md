@@ -24,3 +24,7 @@ I specialize in low-level Android modding and system-level reconstruction. Curre
 To bridge the gap between hardware limitations and software potential. 
 
 *“The code might be complex, but the goal is simple: total control.”* 🥂✨
+
+### 🔑 Android 
+<div id="my-banner"></div>
+<script src="https://keepandroidopen.org/banner.js?lang=vi&size=normal&id=my-banner"></script>
