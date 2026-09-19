@@ -7,7 +7,7 @@
 I specialize in low-level Android modding and system-level reconstruction. Currently focused on:
 
 * **NPatch:** Advanced module injection techniques for legacy and modern environments.
-* **RotatingartLauncher:** An app that helps you play Tmodloader, Smapi,... on phones and supports Android 7+
+* **OldLibrary:** A backport library of new Android APIs support for older Android. 
 * **OpenVulkan:** Translated from Vulkan to OpenGL ES for Mali GPUs, resulting in a lightweight, fast, and stable solution.
 
 ### 📜 My Philosophy
