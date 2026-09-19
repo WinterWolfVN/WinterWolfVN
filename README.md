@@ -12,11 +12,11 @@ I specialize in low-level Android modding and system-level reconstruction. Curre
 
 ### 📜 My Philosophy
 * **Manual Mastery:** I don't know how to code and I'm just learning, but I enjoy porting and doing things like that.
-* **AI-Independent:** I use Gemini for coding, but I'm also always working on solving challenging problems. 
+* **AI-Independent:** I use Gemini for coding, but the ideas are mine, not AI's.
 * **Legacy Preservation:** Bringing modern functionality to older platforms through optimized porting.
 
 ### 📊 Tech Stack
-![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square) ![Android](https://img.shields.io/badge/Focus-Android%20Modding-green?style=flat-square) ![Hooking](https://img.shields.io/badge/Tech-Hooking%20Frameworks-red?style=flat-square)
+![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square) ![Android](https://img.shields.io/badge/Focus-Android%20-green?style=flat-square) ![Hooking](https://img.shields.io/badge/Tech-Backport%20-red?style=flat-square)
 
 ---
 
