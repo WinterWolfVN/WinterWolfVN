@@ -6,7 +6,7 @@
 ### 🛠️ Current Research & Projects
 I specialize in low-level Android modding and system-level reconstruction. Currently focused on:
 
-* **Porterion:** A place where I often downgrade apps to support older Android. 
+* **Porteran:** A place where I often downgrade apps to support older Android. 
 * **OldLibrary:** A backport library of new Android APIs support for older Android. 
 * **OpenVulkan:** Translated from Vulkan to OpenGL ES for Mali GPUs, resulting in a lightweight, fast, and stable solution.
 
